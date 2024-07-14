@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parachute
+* source:	https://sketchfab.com/3d-models/parachute-f5c4359a43a74095986199e10c973c2f
+* author:	Nik Ladoukakis (https://sketchfab.com/nikladoukakis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parachute" (https://sketchfab.com/3d-models/parachute-f5c4359a43a74095986199e10c973c2f) by Nik Ladoukakis (https://sketchfab.com/nikladoukakis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
